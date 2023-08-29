@@ -1,7 +1,14 @@
 [package]
 name = "arborust"
-version = "0.0.1"
+version = "0.1.0"
 edition = "2021"
 authors = ["RJ Smith <rj@rjsmith.me>"]
+license = "MIT"
+description = "arborust is a command line utility for displaying directory structures."
+readme = "README.md"
+homepage = "https://github.com/tupleHunden/arborust"
+repository = "https://github.com/tupleHunden/arborust"
+keywords = ["cli"]
+categories = ["command-line-utilities"]
 
 [dependencies]
