@@ -1,0 +1,7 @@
+[package]
+name = "arborust"
+version = "0.0.1"
+edition = "2021"
+authors = ["RJ Smith <rj@rjsmith.me>"]
+
+[dependencies]
