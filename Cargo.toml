@@ -12,3 +12,4 @@ keywords = ["cli"]
 categories = ["command-line-utilities"]
 
 [dependencies]
+ignore = "0.4.20"
